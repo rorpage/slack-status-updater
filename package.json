@@ -1,0 +1,14 @@
+{
+  "name": "slack-status-updater",
+  "version": "1.0.0",
+  "description": "Simple Vercel API to update Slack status",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robbie Page <rorpage@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.9"
+  }
+}
