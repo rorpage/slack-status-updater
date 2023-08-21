@@ -23,6 +23,10 @@ export default async (req, res) => {
 
   const statuses = [
     {
+      icon: 'car',
+      text: 'Elsewhere'
+    },
+    {
       icon: 'house',
       text: 'Home'
     },
@@ -39,8 +43,8 @@ export default async (req, res) => {
       text: 'Coffee shop'
     },
     {
-      icon: 'car',
-      text: 'Elsewhere'
+      icon: 'school',
+      text: 'School'
     }
   ];
 
